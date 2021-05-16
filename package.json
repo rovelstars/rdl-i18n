@@ -1,0 +1,18 @@
+{
+  "name": "rdl-i18n",
+  "version": "0.0.2",
+  "description": "i18n source files for Rovel Discord List!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rovelstars/rdl-i18n.git"
+  },
+  "author": "Sayantan Das",
+  "bugs": {
+    "url": "https://github.com/rovelstars/rdl-i18n/issues"
+  },
+  "homepage": "https://github.com/rovelstars/rdl-i18n#readme"
+}
