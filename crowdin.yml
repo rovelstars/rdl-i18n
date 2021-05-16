@@ -1,3 +1,3 @@
 files:
   - source: /site/*.json
-    translation: /build/%locale_with_underscore%/%original_file_name%
+    translation: /build/%locale%.json
