@@ -1,12 +1,12 @@
 {
     "title": "रोवेल डिस्कोर्ड लिस्ट",
-    "desc": "The Ultimate Discord List with Emojis, Users, Servers, Templates & Bots!",
+    "desc": "सबसे बड़ा सूची डिस्कॉर्ड का जिसमे इमोजिस, उपयोगकर्ताओं, सर्वर्स, टेंप्लेटेस और बोट्स!",
     "hello": "नमस्ते",
     "navbar.home": "घर",
     "navbar.documentation": "प्रलेखन",
     "navbar.emojis": "एमोजिस",
     "navbar.users": "उपयोगकर्ताओं",
     "navbar.servers": "सर्वर्स",
-    "navbar.templates": "सर्वर टेम्पलेट",
+    "navbar.templates": "सर्वर टेंप्लेट्स",
     "navbar.bots": "बोट्स"
 }
