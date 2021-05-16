@@ -3,10 +3,10 @@
     "desc": "सबसे बड़ा सूची डिस्कॉर्ड का जिसमे एमिजिस, उपयोगकर्ताओं, सर्वर्स और बोट्स!",
     "hello": "नमस्ते",
     "navbar.home": "घर",
-    "navbar.documentation": "Documentation",
-    "navbar.emojis": "Emojis",
-    "navbar.users": "Users",
-    "navbar.servers": "Servers",
-    "navbar.templates": "Server Templates",
-    "navbar.bots": "Bots"
+    "navbar.documentation": "प्रलेखन",
+    "navbar.emojis": "एमोजिस",
+    "navbar.users": "उपयोगकर्ताओं",
+    "navbar.servers": "सर्वर्स",
+    "navbar.templates": "सर्वर टेम्पलेट",
+    "navbar.bots": "बोट्स"
 }
