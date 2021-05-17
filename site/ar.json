@@ -8,5 +8,21 @@
     "navbar.users": "المستخدمون",
     "navbar.servers": "الخوادم",
     "navbar.templates": "قوالب الخوادم",
-    "navbar.bots": "الروبوتات"
+    "navbar.bots": "الروبوتات",
+    "navbar.join-server": "Join Discord Server",
+    "navbar.github": "Source Code",
+    "navbar.login": "Log in",
+    "navbar.logout": "Log out",
+    "navbar.dashboard": "Dashboard",
+    "title.bots.random": "Random Bots",
+    "title.bots.new": "New Bots",
+    "view": "View",
+    "add": "Add",
+    "footer.text": "Rovel Stars © 2021 All Rights Reserved",
+    "contact-us": "Contact Us",
+    "discord": "Discord",
+    "twitter": "Twitter",
+    "bots.servers.title": "In",
+    "bots.servers.text": "Servers",
+    "bots.votes.title": "Votes"
 }
