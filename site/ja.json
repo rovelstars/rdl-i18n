@@ -1,6 +1,6 @@
 {
     "title": "Rovel Discord List",
-    "desc": "The Ultimate Discord List with Emojis, Users, Servers, Templates & Bots!",
+    "desc": "Imagine a better place - where you can find everything about discord!",
     "hello": "Hello",
     "navbar.home": "Home",
     "navbar.documentation": "Documentation",
@@ -18,8 +18,24 @@
     "title.bots.new": "New Bots",
     "view": "View",
     "add": "Add",
+    "edit": "Edit",
     "footer.text": "Rovel Stars © 2021 All Rights Reserved",
     "contact-us": "Contact Us",
     "discord": "Discord",
-    "twitter": "Twitter"
+    "twitter": "Twitter",
+    "dashboard.welcome": "Welcome To Your Dashboard",
+    "dashboard.subtitle": "Here you can manage your Account, Bots, and Servers!",
+    "dashboard.sync.title": "Sync",
+    "dashboard.sync.normal": "Data",
+    "dashboard.sync.error": "Failed to update data!",
+    "dashboard.sync.fail": "Nothing was updated...",
+    "dashboard.sync.success": "Updated!",
+    "dashboard.balance": "Balance",
+    "your-bots": "Your Bots",
+    "dashboard.nobots": "You currently don't have any bots listed on RDL :/",
+    "dashboard.nobots.tip": "Add or Import your bot to see them here!",
+    "dashboard.newbot.title": "New Bot",
+    "dashboard.newbot.desc": "Want to add a new bot to RDL? Let's start this new journey of getting your bot become popular!",
+    "add-bot": "Add Bot",
+    "import-bot": "Import Bot"
 }
